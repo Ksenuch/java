@@ -1,0 +1,19 @@
+[ {
+  "name" : "Саша",
+  "wantsToBuy" : {
+    "name" : "Сыр",
+    "price" : 277
+  }
+}, {
+  "name" : "Федя",
+  "wantsToBuy" : {
+    "name" : "Колбаса",
+    "price" : 75
+  }
+}, {
+  "name" : "Глаша",
+  "wantsToBuy" : {
+    "name" : "Молоко",
+    "price" : 109
+  }
+} ]
